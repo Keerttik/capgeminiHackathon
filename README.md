@@ -1,6 +1,6 @@
 # Hackathon
 
-ommunication Zones (100 Marks)
+
 Consider a rectangular state of a country. The dimension of the state is M units x N units. The state is divided in M*N cities of dimension 1 unit x 1 unit. See the example.
 ![681538261472790](https://user-images.githubusercontent.com/34683060/46905715-41ccbe00-cf15-11e8-9426-0737625ca905.png)
                                           
